@@ -1,7 +1,7 @@
 ## Installing
 
 ```bash
-git clone https://github.com/lowmess/lowmess.git
+git clone https://github.com/rmadukayil/personal-website.git
 cd lowmess
 npm i
 ```
