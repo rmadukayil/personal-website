@@ -1,27 +1,32 @@
 [
   {
-    "title": "Testing",
-    "date": "2019-04-22",
-    "description": "In addition to designing & developing the website, I also created the branding for this (now defunct) Arizona-based golf services company.",
-    "website": "https://az-golf-gurus.netlify.com"
+    "title": "NBA Shot Visualizer",
+    "date": "2020-08-20",
+    "description": "In preparation for the NBA playoffs, I put together a web-app that helps you visualize your favourite NBA player's dominant areas on the court.",
+    "repo": "https://github.com/rmadukayil/nba-shot-tracker"
   },
   {
-    "title": "Most Wanted",
-    "date": "2019-02-14",
-    "description": "Get a list of your top 25 most-played albums that you don't own on physical media yet. A good way to figure out how to spend $500.",
-    "website": "https://most-wanted.lowmess.com",
+    "title": "COVID-19 Tracker",
+    "date": "2020-07-14",
+    "description": "Visualizing global COVID-19 cases. A bit late to the party, but may unfortunately come in handy as we enter a second wave.",
+    "repo": "https://github.com/rmadukayil/covid-19-tracker"
+  },
+  {
+    "title": "Face Mask Detection",
+    "date": "2020-03-01",
+    "description": "My introduction to Open CV. ",
     "repo": "https://github.com/lowmess/music/tree/master/src/most-wanted"
   },
   {
-    "title": "Chirp",
-    "date": "2018-11-01",
-    "description": "To help the client transition into their new brand before the Black Friday rush, I developed this ecommerce site in under 6 weeks. Built at Fuel Made.",
-    "website": "https://gochirp.com"
+    "title": "Quizzo",
+    "date": "2019-11-14",
+    "description": "Building a quiz app for my elementary-school-aged sisters to keep track of their science trivia.",
+    "repo": "https://github.com/lowmess/music/tree/master/src/most-wanted"
   },
   {
-    "title": "cocokind",
-    "date": "2018-07-01",
-    "description": "While working at Fuel Made, I developed this skincare ecommerce website. It was the first site built with an atomic CSS library I wrote while at the agency.",
-    "website": "https://www.cocokind.com"
+    "title": "Gait Cycle Analysis for Parkinson's Patients",
+    "date": "2018-12-20",
+    "description": "Did some real-time signal processing to identify freezing points in the gait cycle for Parkinson's patients. Provided them with a vibrational cue to get back on track.",
+    "repo": "https://github.com/rmadukayil/gait-freezing-detection"
   }
 ]
