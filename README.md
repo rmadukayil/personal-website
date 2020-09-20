@@ -9,3 +9,6 @@ npm run build
 ```bash
 npm run start
 ```
+
+## Hosting
+This website is hosted using Netlify. 
