@@ -3,19 +3,20 @@
     "title": "NBA Shot Visualizer",
     "date": "2020-08-20",
     "description": "In preparation for the NBA playoffs, I put together a web-app that helps you visualize your favourite player's best shot regions.",
-    "repo": "https://github.com/lowmess/music/tree/master/src/most-wanted"
+    "repo": "https://github.com/rmadukayil/nba-shot-tracker",
+    "website": "https://github.com/lowmess/music/tree/master/src/most-wanted"
   },
   {
     "title": "COVID-19 Tracker",
     "date": "2020-07-14",
     "description": "Visualizing global COVID-19 cases. A bit late to the party, but may unfortunately come in handy as we enter a second wave.",
-    "repo": "https://github.com/lowmess/music/tree/master/src/most-wanted"
+    "repo": "https://github.com/rmadukayil/covid-19-tracker"
   },
   {
     "title": "Face Mask Detection",
     "date": "2020-03-01",
     "description": "My introduction to Open CV. ",
-    "repo": "https://github.com/lowmess/music/tree/master/src/most-wanted"
+    "repo": "https://github.com/rmadukayil/nba-shot-tracker"
   },
   {
     "title": "Quizzo",
@@ -27,6 +28,6 @@
     "title": "Gait Cycle Analysis for Parkinson's Patients",
     "date": "2018-12-20",
     "description": "Did some real-time signal processing to identify freezing points in the gait cycle for Parkinson's patients. Provided them with a vibrational cue to get back on track.",
-    "repo": "https://github.com/lowmess/music/tree/master/src/most-wanted"
+    "repo": "https://github.com/rmadukayil/gait-freezing-detection"
   }
 ]
