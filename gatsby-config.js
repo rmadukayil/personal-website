@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Rachel Madukayil',
-    description: `Hi. I'm Rachel`,
+    description: `Hi. I'm Rachel.`,
     siteUrl: 'https://www.rmadukayil.com',
   },
   plugins: [
