@@ -7,22 +7,23 @@
     "website": "https://github.com/lowmess/music/tree/master/src/most-wanted"
   },
   {
+    "title": "BikeSafe",
+    "date": "2020-07-06",
+    "description": "Building a MERN stack application for visualizing bike-friendly areas in Toronto. ",
+    "repo": "https://github.com/rmadukayil/bike-safe"
+  },
+  {
     "title": "COVID-19 Tracker",
-    "date": "2020-07-14",
-    "description": "Visualizing global COVID-19 cases. A bit late to the party, but may unfortunately come in handy as we enter a second wave.",
-    "repo": "https://github.com/rmadukayil/covid-19-tracker"
+    "date": "2020-06-01", 
+    "description": "Visualizing global COVID-19 cases. Data pulled from [disease.sh](https://disease.sh/). A bit late to the party, but may unfortunately come in handy as we enter a second wave.",
+    "repo": "https://github.com/rmadukayil/covid-19-tracker",
+    "website": "https://https://github.com/rmadukayil/covid-19-tracker"
   },
   {
-    "title": "Face Mask Detection",
-    "date": "2020-03-01",
-    "description": "My introduction to Open CV. ",
-    "repo": "https://github.com/rmadukayil/nba-shot-tracker"
-  },
-  {
-    "title": "Quizzo",
-    "date": "2019-11-14",
-    "description": "Building a quiz app for my elementary-school-aged sisters to keep track of their science trivia.",
-    "repo": "https://github.com/lowmess/music/tree/master/src/most-wanted"
+    "title": "Netflix UI Overhaul",
+    "date": "2020-03-14",
+    "description": "Netflix's UI is solid. I just wanted to see if I could make a little better. Follow me as I translate wireframes into a usable, responsive interface.",
+    "repo": "https://github.com/rmadukayil/netflix-redesign"
   },
   {
     "title": "Gait Cycle Analysis for Parkinson's Patients",
