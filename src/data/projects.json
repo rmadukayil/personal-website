@@ -15,9 +15,9 @@
   {
     "title": "COVID-19 Tracker",
     "date": "2020-06-01", 
-    "description": "Visualizing global COVID-19 cases. Data pulled from [disease.sh](https://disease.sh/). A bit late to the party, but may unfortunately come in handy as we enter a second wave.",
+    "description": "Visualizing global COVID-19 cases by country. A bit late to the party, but may unfortunately come in handy as we enter a second wave.",
     "repo": "https://github.com/rmadukayil/covid-19-tracker",
-    "website": "https://https://github.com/rmadukayil/covid-19-tracker"
+    "website": "https://rmadukayil.github.io/covid-19-tracker/"
   },
   {
     "title": "Netflix UI Overhaul",
