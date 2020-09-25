@@ -99,11 +99,11 @@ const IndexPage: React.FC = () => {
           </Heading>{' '}
           <br/>
           <Heading as="h2" variant="site-intro">
-            I'm a third-year engineering student at UWaterloo.
+            I&apos;m a third-year engineering student at UWaterloo.
           </Heading>{' '}
           <br/>
           <Heading as="h2" variant="site-intro">
-            Currently, I'm {' '}
+            Currently, I&apos;m {' '}
             <Link href="mailto:rjmaduka@uwaterloo.ca">
               looking for my next opportunity
             </Link>.

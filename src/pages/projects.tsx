@@ -40,7 +40,7 @@ const ProjectsPage: React.FC = () => {
       <Header>
         <HeaderName>Projects</HeaderName>
 
-        <HeaderTitle>Here's some stuff I'm proud of</HeaderTitle>
+        <HeaderTitle>Here&apos;s some stuff I&apos;m proud of</HeaderTitle>
       </Header>
 
       <Container as="main" mt={5}>
