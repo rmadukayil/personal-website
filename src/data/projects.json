@@ -9,25 +9,25 @@
   {
     "title": "BikeSafe",
     "date": "2020-07-06",
-    "description": "Building a MERN stack application for visualizing bike-friendly areas in Toronto.",
+    "description": "Building a MERN stack application for visualizing bike-friendly areas in Toronto. Work in progress!",
     "repo": "https://github.com/rmadukayil/bike-safe"
   },
   {
     "title": "NBA Shot Visualizer",
     "date": "2019-09-29",
-    "description": "In preparation for the NBA season, I put together a web-app that helps you visualize your favourite player's best (or worst) shot regions.",
+    "description": "I like basketball. So, I put together a web-app that helps you visualize your favourite player's best (or worst) shot regions.",
     "repo": "https://github.com/rmadukayil/nba-shot-tracker"
   },
   {
     "title": "Netflix UI Overhaul",
     "date": "2019-06-14",
-    "description": "Netflix's UI is solid. I just wanted to see if I could make a little better. Follow me as I translate wireframes into a usable, responsive interface.",
+    "description": "Netflix's UI is solid. I just wanted to see if I could play around and make it a little better. I try and translate some great wireframes I found on Dribbble into a usable, responsive interface.",
     "repo": "https://github.com/rmadukayil/netflix-redesign"
   },  
   {
     "title": "Gait Cycle Analysis for Parkinson's Patients",
     "date": "2018-12-20",
-    "description": "Did some real-time signal processing to identify freezing points in the gait cycle for Parkinson's patients. Provided them with a vibrational cue to get back on track.",
+    "description": "Did some real-time signal processing to identify freezing points in the gait cycle for Parkinson's patients. Provided them with an auditory cue to get back on track.",
     "repo": "https://github.com/rmadukayil/gait-freezing-detection"
   }
 ]
