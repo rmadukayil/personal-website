@@ -8,7 +8,7 @@ import { Header, HeaderName, HeaderTitle } from '../components/Header'
 const ErrorPage: React.FC = () => (
   <Layout>
     <Helmet>
-      <title>I goofed it</title>
+      <title>I messed up...</title>
     </Helmet>
 
     <Header>
