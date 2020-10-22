@@ -30,16 +30,6 @@ interface Props {
 
 const BlogPostTemplate: React.FC<Props> = ({ pageContext, children }) => {
   const { title, siteUrl } = useSiteMetadata()
-
-  // So this bit is a tad gross. I have to get all MDX nodes, then filter them
-  // down to get the actual node the template is rendering. The reason for this
-  // is thricefold:
-  //
-  // 1. If I don't do this, I have to format dates on the frontend and deal
-  //    with all that wonky timezone bullshit, and
-  // 2. This template can't run Gatsby queries for whatever reason, but mostly
-  //    it's because
-  // 3. I can't pass variables to `useStaticQuery`
   const {
     allMdx: { edges },
   } = useStaticQuery(graphql`
@@ -80,9 +70,6 @@ const BlogPostTemplate: React.FC<Props> = ({ pageContext, children }) => {
         <title>{post.frontmatter.title}</title>
 
         <meta name="description" content={post.frontmatter.description} />
-
-        <meta name="twitter:site" content="@lowmess" />
-        <meta name="twitter:card" content="summary" />
         <meta property="og:site_name" content={title} />
         <meta
           property="og:title"
