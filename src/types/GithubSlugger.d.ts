@@ -1,1 +1,2 @@
 declare module 'github-slugger'
+
