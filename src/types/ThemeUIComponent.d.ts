@@ -6,3 +6,4 @@ export interface ThemeUIProps extends SxProps, SpaceProps {
   as?: React.ElementType
   variant?: string
 }
+
