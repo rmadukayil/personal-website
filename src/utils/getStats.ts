@@ -63,3 +63,5 @@ const getStats = async (): Promise<Stats> => {
 }
 
 export default getStats
+
+
