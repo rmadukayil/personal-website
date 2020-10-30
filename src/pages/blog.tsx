@@ -32,6 +32,7 @@ const BlogPage: React.FC = () => {
               year: date(formatString: "YYYY")
             }
             fields {
+
               slug
             }
           }
