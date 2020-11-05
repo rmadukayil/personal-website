@@ -33,6 +33,7 @@ const Footer: React.FC<ThemeUIProps> = (props) => {
             fields {
               slug
             }
+
           }
         }
       }
