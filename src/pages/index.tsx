@@ -17,7 +17,7 @@ const IndexPage: React.FC = () => {
           </Heading>{' '}
           <br/>
           <Heading as="h2" variant="site-intro">
-            I&apos;m a third-year engineering student at UWaterloo.
+            I&apos;m a fourth-year biomedical engineering student at UWaterloo.
           </Heading>{' '}
           <br/>
           <Heading as="h2" variant="site-intro">
