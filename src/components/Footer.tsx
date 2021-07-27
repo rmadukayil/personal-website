@@ -83,12 +83,6 @@ const Footer: React.FC<ThemeUIProps> = (props) => {
               </li>
 
               <li>
-                <FooterLink href="https://dribbble.com/rmadukayil">
-                  Dribbble
-                </FooterLink>
-              </li>
-
-              <li>
                 <FooterLink href="https://linkedin.com/in/rmadukayil">
                   LinkedIn
                 </FooterLink>

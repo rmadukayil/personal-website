@@ -17,12 +17,12 @@ const IndexPage: React.FC = () => {
           </Heading>{' '}
           <br/>
           <Heading as="h2" variant="site-intro">
-            I&apos;m a fourth-year biomedical engineering student at UWaterloo.
+            I&apos;m a fourth-year engineering student at UWaterloo.
           </Heading>{' '}
           <br/>
           <Heading as="h2" variant="site-intro">
             Currently, I&apos;m {' '}
-            <Link href="mailto:rjmaduka@uwaterloo.ca">
+            <Link href="mailto:rmadukayil@gmail.com">
               looking for my next opportunity
             </Link>.
           </Heading>{' '}
