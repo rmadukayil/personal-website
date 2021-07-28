@@ -7,7 +7,7 @@ const IndexPage: React.FC = () => {
     <Layout>
       <Container>
         <Text variant="section-heading" mb={3}>
-          HELLO
+          HI
         </Text>
 
         {/* The `Text` wrapper makes sure spaces are consistently sized */}

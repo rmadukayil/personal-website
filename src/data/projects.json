@@ -1,15 +1,8 @@
 [
   {
-    "title": "COVID-19 Tracker",
-    "date": "2020-09-01", 
-    "description": "Visualizing global COVID-19 cases by country. A bit late to the party, but may unfortunately come in handy as we enter a second wave.",
-    "repo": "https://github.com/rmadukayil/covid-19-tracker",
-    "website": "https://rmadukayil.github.io/covid-19-tracker/"
-  },
-  {
     "title": "BikeSafe",
     "date": "2020-07-06",
-    "description": "Building a MERN stack application for visualizing bike-friendly areas in Toronto. In progress!",
+    "description": "Building a MERN stack application for visualizing bike-friendly areas in Toronto. Work in progress!",
     "repo": "https://github.com/rmadukayil/bike-safe"
   },
   {
