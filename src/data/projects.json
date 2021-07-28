@@ -3,7 +3,8 @@
     "title": "BikeSafe",
     "date": "2020-07-06",
     "description": "Building a MERN stack application for visualizing bike-friendly areas in Toronto. Work in progress!",
-    "repo": "https://github.com/rmadukayil/bike-safe"
+    "repo": "https://github.com/rmadukayil/bike-safe",
+    "website": "https://github.com/rmadukayil/bike-safe"
   },
   {
     "title": "NBA Shot Visualizer",
