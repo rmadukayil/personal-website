@@ -13,7 +13,7 @@ const IndexPage: React.FC = () => {
         {/* The `Text` wrapper makes sure spaces are consistently sized */}
         <Text variant="site-intro" sx={{ display: 'contents' }}>
           <Heading as="h1" variant="site-intro" sx={{ fontWeight: 'bold' }}>
-            I'm Rachel.
+            My name is Rachel.
           </Heading>{' '}
           <br/>
           <Heading as="h2" variant="site-intro">
@@ -23,9 +23,8 @@ const IndexPage: React.FC = () => {
           <Heading as="h2" variant="site-intro">
             Currently, I&apos;m {' '}
             <Link href="mailto:rmadukayil@gmail.com">
-              looking for a full-time opportunity
-            </Link>.
-            following my graduation in April 2022. 
+              looking for my next opportunity
+            </Link>. 
           </Heading>{' '}
           <Text as="p" variant="site-intro"></Text>
         </Text>
