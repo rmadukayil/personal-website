@@ -9,7 +9,7 @@ const LineNumber: React.FC = ({ children }) => (
     sx={{
       display: ['none', 'inline-block'],
       textAlign: 'right',
-      color: '#938776', // Comment color taken from `lowmess-prism`
+      color: '#938776', 
       userSelect: 'none',
     }}
     aria-hidden
@@ -54,9 +54,6 @@ const Code: React.FC<CodeProps> = ({
         <Highlight
           {...defaultProps}
           code={children.trim()}
-          // TS doesn't like that we're passing a string to an enum, but since
-          // we're rendering this from MDX we don't know the language ahead
-          // of time.
           // eslint-disable-next-line
           // @ts-ignore
           language={language}
