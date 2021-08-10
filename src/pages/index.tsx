@@ -23,7 +23,7 @@ const IndexPage: React.FC = () => {
           <Heading as="h2" variant="site-intro">
             Currently, I&apos;m {' '}
             <Link href="mailto:rmadukayil@gmail.com">
-              looking for my next opportunity
+              looking for new grad opportunities
             </Link>. 
           </Heading>{' '}
           <Text as="p" variant="site-intro"></Text>
